@@ -2,8 +2,8 @@
 
 # Gottani.js
 ***雑多な機能の集合***  
-[English](https://github.com/shojicode/gottani-js/docs/README.md) | 
-[日本語](https://github.com/shojicode/gottani-js/docs/README-js.md)
+[English](https://github.com/shojicode/gottani-js/blob/main/docs/README.md) | 
+[日本語](https://github.com/shojicode/gottani-js/blob/main/docs/README-ja.md)
 
 </div>
 
