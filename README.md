@@ -1,12 +1,16 @@
-<p align=center>
+<h1 align="center">
+Gottani.js
+</h1>
 
-# Gottani.js
-***Collection of miscellaneous features***  
+<h4 align="center">
+
+***Collection of miscellaneous features***
+
+</h4> 
 
 [English](https://github.com/shojicode/gottani-js/blob/main/docs/README-ja.md) | 
 [日本語](https://github.com/shojicode/gottani-js/blob/main/docs/README-ja.md)
 
-</p>
 
 ## What is this?
 Gottani.js is a versatile library for JavaScript/TypeScript. This was create to gather features that write to use other projects. 
